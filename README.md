@@ -1,11 +1,18 @@
 # Counterfeit-Bills-Detection-ML
 
-Given data set that provides 4 features per bill and whether the bill was genuine or counterfeit.  Using Machine Learning algorithms and the measurements provided, I built a predictor to determine whether a bill is genuine or counterfeit from these features.  
-* Best Prediction was K-Nearest Neighbor with  `Accuracy 100%` & `Combined Accuracy 99.93%`
+Given data set that provides 4 features per bill and whether the bill was genuine or counterfeit.  Using Machine Learning algorithms and the measurements provided, I built a predictor to determine whether a bill is genuine or counterfeit in . In addition, a descriptive statistical analysis and visualization techniques for the data set is shown in .
 
-Using several machine learning algorithms over a dataset involving Banknote Authentication.  Algorithms include Perceptron, Logistic Regression, Support Vector Machine, Decision Tree Learning, Random Forest, and K-Nearest Neighbor with a Accuracy Table for each algorithm.  In addition, a descriptive statistical analysis, and a Pairplot & Cross Covariance Matrix are created for visualization are ran over the dataset in another file.   
+## Algorithms
+- Perceptron
+- Logistic Regression
+- Support Vector Machine
+- Decision Tree Learning
+- Random Forest
+- K-Nearest Neighbor 
 
-
+## Visualization
+- Pair Plot
+- Cross Covariance 
 
 ## Requirements
 - Python 3 
@@ -19,3 +26,6 @@ Using several machine learning algorithms over a dataset involving Banknote Auth
 
 * I used the [`Anaconda`](https://www.anaconda.com/products/individual) Environment to install these packages with additional, with Jupyter Notebook and Spyder IDE in addtion
 * Other method to just download packages is [`Miniconda`](https://docs.conda.io/en/latest/miniconda.html)
+
+## Results
+* Best Prediction was K-Nearest Neighbor with  `Accuracy 100%` & `Combined Accuracy 99.93%`
