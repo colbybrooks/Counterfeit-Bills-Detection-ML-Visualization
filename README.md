@@ -4,9 +4,12 @@ Using several machine learning algorithms over a dataset involving Banknote Auth
 ## Requirements
 - Python 3 
 ### Packages
-- numpy
-- pandas
-- sklearn
-- matplotlib
-- seaborn
-* Easier to install anacondas enviroment https://www.anaconda.com/products/individual
+- `numpy` 1.16.5 ++  http://www.numpy.org/
+- 'pandas' 1.0.0 ++  https://pandas.pydata.org/
+- `scipy` 1.3.1 ++ http://www.scipy.org/
+- `matplotlib` version 1.3 or later: http://matplotlib.org/
+- `scikit-learn` 0.21.3 ++ http://scikit-learn.org
+- [`seaborn`](https://seaborn.pydata.org/) 0.9.0 ++  https://seaborn.pydata.org/
+
+I used the [Anaconda](https://www.anaconda.com/products/individual) Environment to install these packages with additional, with Jupyter Notebook and Spyder IDE in addtion
+Other method to just download packages is [miniconda](https://docs.conda.io/en/latest/miniconda.html)
