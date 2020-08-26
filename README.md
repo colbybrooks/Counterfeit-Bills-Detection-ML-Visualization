@@ -26,7 +26,7 @@ Given data set that provides 4 features per bill and whether the bill was genuin
 * I used the [`Anaconda`](https://www.anaconda.com/products/individual) Environment to install these packages with additional, with Jupyter Notebook and Spyder IDE in addtion
 * Other method to just download packages is [`Miniconda`](https://docs.conda.io/en/latest/miniconda.html)
 
-## Data Set Bill Features
+## Data Set Bill Features `data_banknote_authentication.txt`
 1. variance of Wavelet Transformed image (continuous)
 2. skewness of Wavelet Transformed image (continuous)
 3. curtosis of Wavelet Transformed image (continuous)
