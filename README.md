@@ -11,5 +11,5 @@ Using several machine learning algorithms over a dataset involving Banknote Auth
 - [`scikit-learn`](http://scikit-learn.or) version 0.21.3 or +
 - [`seaborn`](https://seaborn.pydata.org/) version 0.9.0 or +
 
-I used the [Anaconda](https://www.anaconda.com/products/individual) Environment to install these packages with additional, with Jupyter Notebook and Spyder IDE in addtion
-Other method to just download packages is [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+* I used the [`Anaconda`](https://www.anaconda.com/products/individual) Environment to install these packages with additional, with Jupyter Notebook and Spyder IDE in addtion
+* Other method to just download packages is [`Miniconda`](https://docs.conda.io/en/latest/miniconda.html)
