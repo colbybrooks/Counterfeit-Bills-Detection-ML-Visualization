@@ -23,9 +23,14 @@ Given data set that provides 4 features per bill and whether the bill was genuin
 - [`matplotlib`](http://matplotlib.org/) version 1.3 or +
 - [`scikit-learn`](http://scikit-learn.or) version 0.21.3 or +
 - [`seaborn`](https://seaborn.pydata.org/) version 0.9.0 or +
-
 * I used the [`Anaconda`](https://www.anaconda.com/products/individual) Environment to install these packages with additional, with Jupyter Notebook and Spyder IDE in addtion
 * Other method to just download packages is [`Miniconda`](https://docs.conda.io/en/latest/miniconda.html)
 
+## Data Set Bill Features
+1. variance of Wavelet Transformed image (continuous)
+2. skewness of Wavelet Transformed image (continuous)
+3. curtosis of Wavelet Transformed image (continuous)
+4. entropy of image (continuous)
+5. class (integer)
 ## Results
 * Best Prediction was K-Nearest Neighbor with  `Accuracy 100%` & `Combined Accuracy 99.93%`
