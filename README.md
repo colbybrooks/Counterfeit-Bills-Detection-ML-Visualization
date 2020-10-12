@@ -1,6 +1,6 @@
 # Counterfeit-Bills-Detection-ML-Visualization
 
-Given data set that provides 4 features per bill and whether the bill was genuine or counterfeit.  Using Machine Learning algorithms and the measurements provided, I built a predictor to determine whether a bill is genuine or counterfeit in `machineLearningAlgorithms.py`  In addition, a descriptive statistical analysis and visualization techniques for the data set is shown in statisticalAnalysis_visualization.py
+Given data set that provides 4 features per bill and whether the bill was genuine or counterfeit.  Using Machine Learning algorithms and the measurements provided, I built a predictor to determine whether a bill is genuine or counterfeit in `machineLearningAlgorithms.py`  In addition, a descriptive statistical analysis and pair plot is created for visualization on the data set interactions in statisticalAnalysis_visualization.py
 
 ## Algorithms
 - Perceptron
