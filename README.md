@@ -10,6 +10,9 @@ Given data set that provides 4 features per bill and whether the bill was genuin
 - Random Forest
 - K-Nearest Neighbor 
 
+## Results
+* Best Prediction was K-Nearest Neighbor with  `Accuracy 100%` & `Combined Accuracy 99.93%`
+
 ## Visualization
 - Pair Plot
 - Cross Covariance 
@@ -32,5 +35,4 @@ Given data set that provides 4 features per bill and whether the bill was genuin
 3. curtosis of Wavelet Transformed image (continuous)
 4. entropy of image (continuous)
 5. class (integer)
-## Results
-* Best Prediction was K-Nearest Neighbor with  `Accuracy 100%` & `Combined Accuracy 99.93%`
+
